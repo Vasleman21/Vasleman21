@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+¡Hola! 👋 Soy André Vásquez, un joven de Guatemala 🇬🇹 con una gran pasión por el desarrollo de software y el aprendizaje continuo. Busco oportunidades para crecer profesionalmente en el mundo de la programación, creando proyectos que generen un impacto positivo. Me considero curioso, comprometido y con muchas ganas de destacar participando en iniciativas que me permitan aplicar y ampliar mis conocimientos. 😀
 
-<!--
-**Vasleman21/Vasleman21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andré-vásquez) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vasleman21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vasleman21&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasleman21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
